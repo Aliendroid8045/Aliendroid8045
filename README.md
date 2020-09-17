@@ -1,9 +1,8 @@
 
 
 ### Hi there 👋 
-I am Kaushik, I am android developer who love to write code in kotlin, yes, I have worked on java base android apps as well.
+I am Kaushik, I am android developer who love to write code in kotlin. Yes, I have worked on java base android apps as well.
 ### 🔭 I’m currently working on X-Fitness app
-Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: Twitter - @koshik8045
 - ⚡ Fun fact: I finish angels landing in one hours. 
