@@ -4,7 +4,7 @@
    I am Kaushik, I am android developer who love to write code for android apps in kotlin. Yes, I have worked on java base android apps as   well. I have worked in many different industries such as Aviation, Transportation, Medical and food chain. 
 
 ### 🔭 I’m currently working on X-Fitness app
-- 🌱 I’m currently learning Flutter and Photoshop XD.
+- 🌱 I’m currently learning Flutter and Adobe XD.
 - 📫 How to reach me: Twitter - @koshik8045
 - ⚡ Fun fact: I finished angels landing in one hour. 
 
